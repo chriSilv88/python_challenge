@@ -1,6 +1,6 @@
 # Python Challenge
 
-Author: Christian Silvestri
+Author: Christian Silvestri<br>
 Date: 2026-02-07
 
 # Overview
