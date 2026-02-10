@@ -17,6 +17,7 @@ The structure and abstractions are intentionally kept clean but lightweight, to 
 
 # Project Structure
 
+```text
 python-challenge/
 │
 ├─ data/                # Sample input logs and generated example reports
@@ -28,7 +29,7 @@ python-challenge/
 │   ├─ log_analyzer/
 │   └─ bigint/
 ├─ tests/               # Unit tests
-└─ .gitignore
+└─ .gitignore```
 
 Requirements
 
